@@ -3,6 +3,8 @@ ParseHumanDate.js
 
 A Javascript library to parse human readable dates and times
 
+> See demo [here](http://benwasser.com/parsehumandate.html).
+
 This is basically an amalgamation of three existing human date/time parsers (datejs, chrono, and sugar). I found I needed to build this library because each of the existing ones has pretty big limitations and these three tend to compliment each others' strengths when combined.
 
 Instructions
